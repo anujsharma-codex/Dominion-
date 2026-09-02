@@ -1,0 +1,12 @@
+{
+  "name": "Guardian Circle",
+  "description": "A community safety application connecting users in Chennai with 3 nearby verified guardians, live route tracking, masked in-app calling, and anti-fraud heuristics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
